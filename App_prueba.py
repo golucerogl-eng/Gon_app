@@ -39,3 +39,4 @@ st.write("""
 """)
 # Graficamos una tabla
 st.table(df.head())
+
